@@ -1,3 +1,5 @@
+This repository: [![DOI](https://zenodo.org/badge/264182442.svg)](https://zenodo.org/badge/latestdoi/264182442)
+
 # Time course of alterations in adult spinal motoneuron properties in the G93A mouse model of ALS
 Seoan Huh (1), Charles J. Heckman (1,2,3), and Marin Manuel (1,4)§
 
