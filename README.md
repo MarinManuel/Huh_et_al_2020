@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3831946.svg)](https://doi.org/10.5281/zenodo.3831946)
 
-# Time course of alterations in adult spinal motoneuron properties in the G93A mouse model of ALS
+# Time course of alterations in adult spinal motoneuron properties in the SOD1(G93A) mouse model of ALS
 Seoan Huh (1), Charles J. Heckman (1,2,3), and Marin Manuel (1,4)§
 
 1 Department of Physiology, 2 Department of Physical Medicine and Rehabilitation, and 3 Department of Physical Therapy and Human Movement Science, Northwestern University, Feinberg School of Medicine, Chicago, Illinois, USA. 4 Université de Paris, SPPIN - Saints-Pères Paris Institute for the Neurosciences, CNRS, Paris, France.
