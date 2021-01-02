@@ -1,4 +1,4 @@
-This repository: [![DOI](https://zenodo.org/badge/264182442.svg)](https://zenodo.org/badge/latestdoi/264182442)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3831946.svg)](https://doi.org/10.5281/zenodo.3831946)
 
 # Time course of alterations in adult spinal motoneuron properties in the G93A mouse model of ALS
 Seoan Huh (1), Charles J. Heckman (1,2,3), and Marin Manuel (1,4)§
@@ -13,13 +13,15 @@ This repository contains the code used to generate the analysis and the figures 
 # Requirements
 This notebook was tested using 
 
-    Python==3.7.4
-    jupyter-notebook=6.0.3,
-    dabest==0.3.0
-    matplotlib==3.1.3
-    numpy==1.18.1
-    pandas==0.25.3
-    scipy==1.4.1
-    seaborn==0.10.1
+    Python 3.7.4
+    jupyter-notebook 6.0.3,
+    matplotlib 3.3.1
+    numpy 1.19.2
+    seaborn 0.11.0
+    pandas 1.0.5
+    dabest 0.3.0
+    scipy 1.5.2
+    statsmodels 0.12.0
+    sklearn 0.23.2
     
 See file `requirements.txt`
